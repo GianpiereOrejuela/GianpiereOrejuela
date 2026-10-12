@@ -55,5 +55,5 @@ def banner(path, label, seed):
     print(path)
 
 
-banner(f"{OUT}/header.svg", "[ SIC PARVIS MAGNA ]", 7)
+banner(f"{OUT}/header.svg", "[ HELLO WORLD.. GIANPIERE ]", 7)
 banner(f"{OUT}/footer.svg", "&gt; EOF // GIANPIERE OREJUELA", 21)

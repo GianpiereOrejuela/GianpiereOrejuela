@@ -1,15 +1,9 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="SIC PARVIS MAGNA"/>
+  <img src="assets/header.svg" width="100%" alt="hello world.. Gianpiere"/>
 </div>
 
 <div align="center">
   <img src="assets/skull-ascii.gif" width="380" alt="ASCII skull"/>
-</div>
-
-<div align="center">
-  <samp>
-    <b>hello world.. Gianpiere</b>
-  </samp>
 </div>
 
 <br>
@@ -20,17 +14,19 @@
 
 <br>
 
-```text
-+--[ github // PROFILE ]--------------------------------------+
-|  ID .......... Gianpiere Orejuela Lluncor                    |
-|  STATUS ...... ONLINE 24/7 :)                                |
-|  FOCUS ....... IA agents, RAG, n8n, bots, RPAs               |
-+--------------------------------------------------------------+
-```
+<div align="center">
+  <samp>
+    +--[&nbsp;github&nbsp;//&nbsp;PROFILE&nbsp;]-----------------------------------------+<br>
+    |&nbsp;&nbsp;ID&nbsp;..........&nbsp;Gianpiere&nbsp;Orejuela&nbsp;Lluncor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+    |&nbsp;&nbsp;STATUS&nbsp;......&nbsp;ONLINE&nbsp;24/7&nbsp;:)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+    |&nbsp;&nbsp;FOCUS&nbsp;.......&nbsp;IA&nbsp;agents,&nbsp;RAG,&nbsp;n8n,&nbsp;bots,&nbsp;RPAs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+    +----------------------------------------------------------------+
+  </samp>
+</div>
 
-<details>
-  <summary><samp><b>[ MORE INFO ]</b></samp></summary>
-  <br>
+<br>
+
+<hr>
 
 <div align="center">
 
@@ -76,8 +72,6 @@
 </div>
 
 <hr>
-
-</details>
 
 <br>
 
